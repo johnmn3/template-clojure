@@ -4,3 +4,4 @@ image:
 vscode:
   extensions:
     - betterthantomorrow.calva
+    - shaunlebron.vscode-parinfer
